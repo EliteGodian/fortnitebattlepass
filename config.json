@@ -1,7 +1,7 @@
 {
   "_name_or_path": "./output",
   "architectures": [
-    "LLaMAForCausalLM"
+    "LlamaForCausalLM"
   ],
   "bos_token_id": 0,
   "eos_token_id": 1,
